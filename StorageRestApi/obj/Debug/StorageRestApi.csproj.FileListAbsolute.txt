@@ -1,0 +1,6 @@
+c:\users\thiagocustodio\documents\visual studio 2012\Projects\StorageRestApi\StorageRestApi\bin\Debug\StorageRestApi.exe.config
+c:\users\thiagocustodio\documents\visual studio 2012\Projects\StorageRestApi\StorageRestApi\obj\Debug\StorageRestApi.csprojResolveAssemblyReference.cache
+c:\users\thiagocustodio\documents\visual studio 2012\Projects\StorageRestApi\StorageRestApi\bin\Debug\StorageRestApi.exe
+c:\users\thiagocustodio\documents\visual studio 2012\Projects\StorageRestApi\StorageRestApi\bin\Debug\StorageRestApi.pdb
+c:\users\thiagocustodio\documents\visual studio 2012\Projects\StorageRestApi\StorageRestApi\obj\Debug\StorageRestApi.exe
+c:\users\thiagocustodio\documents\visual studio 2012\Projects\StorageRestApi\StorageRestApi\obj\Debug\StorageRestApi.pdb
